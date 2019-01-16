@@ -8,12 +8,4 @@
  *
  * @author tjotoole
  */
-public class Doctor {
-    private String forename;
-    private String surname;
-    private int age;
-    private 
-    private String specialisation;
-    private double wage;
-    
-}
+
